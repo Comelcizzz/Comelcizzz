@@ -4,7 +4,7 @@
 
 ### A bit about me:  
 - 🔭 Currently working as a freelance developer, specializing in full-stack development, code refactoring, and exciting projects.  
-- 💻 Experienced with VS Code on Windows for development.  
+- 💻 Experienced in C++, Qt, JavaScript, TypeScript, Node.js, React, Express.js, and RESTful APIs.
 - 🤔 Open to collaboration and always eager to tackle complex problems.  
 
 ### How to reach me:  
